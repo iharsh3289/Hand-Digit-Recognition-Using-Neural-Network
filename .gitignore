@@ -1,0 +1,4 @@
+# Files
+*.pyc
+assets/out.png
+env/
